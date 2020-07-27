@@ -1,0 +1,22 @@
+{
+  "name": "trying_typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexakearns/trying_typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexakearns/trying_typescript/issues"
+  },
+  "homepage": "https://github.com/alexakearns/trying_typescript#readme",
+  "dependencies": {
+    "typescript": "^3.9.7"
+  }
+}
